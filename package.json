@@ -1,0 +1,20 @@
+{
+  "name": "com.unitynative.alerts",
+  "version": "1.0.0",
+  "displayName": "Unity-Native-Alerts",
+  "description": "A Unity plugin to display alerts on iOS and Android",
+  "unity": "2018.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "Plugin",
+    "Native",
+    "Android",
+    "iOS",
+    "Alerts"
+  ],
+  "author": {
+    "name": "Nicholas Sheehan",
+    "url": "https://github.com/NicholasSheehan/Unity-Native-Alerts"
+  }
+}
